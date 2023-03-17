@@ -1,9 +1,9 @@
-# Git Demo 2nd..
+# Git Demo
 
-some Text
+Some description !
 
 ## Subheader
 Tutorial link : [https://youtu.be/RGOj5yH7evk].
 
 ## Local Developmet
-1. HTML file name is "hello.thml"  
+1. HTML file name is "hello.thml".
